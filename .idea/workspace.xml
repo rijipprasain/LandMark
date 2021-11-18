@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3183c53e-2629-49a5-b8a4-6b21e675462a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/tcpdf/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3.6" />
+  <component name="ProjectId" id="1X1JgAeeaxuVpeAL8bfGsI5Bqb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\landmark\admin\extra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="button.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/landmark/admin/button.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="grid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/landmark/admin/grid.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/landmark/admin/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/landmark/admin/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login-process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/login-process.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.login.php" />
+        <item itemvalue="PHP Script.login-process.php" />
+        <item itemvalue="JavaScript Debug.button.html" />
+        <item itemvalue="JavaScript Debug.grid.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3183c53e-2629-49a5-b8a4-6b21e675462a" name="Default Changelist" comment="" />
+      <created>1580207775666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580207775666</updated>
+      <workItem from="1580207776838" duration="69000" />
+      <workItem from="1580216662203" duration="602000" />
+      <workItem from="1580262826252" duration="1504000" />
+      <workItem from="1580385910545" duration="9252000" />
+      <workItem from="1580397256156" duration="1017000" />
+      <workItem from="1580433720983" duration="7083000" />
+      <workItem from="1580452072283" duration="4720000" />
+      <workItem from="1580466213410" duration="3053000" />
+      <workItem from="1580480011656" duration="276000" />
+      <workItem from="1580480315194" duration="68000" />
+      <workItem from="1580480398970" duration="76000" />
+      <workItem from="1580480493502" duration="151000" />
+      <workItem from="1580480664801" duration="374000" />
+      <workItem from="1580481060565" duration="4497000" />
+      <workItem from="1580626179895" duration="9255000" />
+      <workItem from="1580649183679" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="116" key="#PHP" timestamp="1580389981088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="667" y="116" key="#PHP/0.0.1920.1050@0.0.1920.1050" timestamp="1580389981088" />
+    <state x="552" y="184" key="#SQL_Dialects" timestamp="1580438783082">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1580438783082" />
+    <state x="552" y="184" key="#SQL_Resolution_Scopes" timestamp="1580466278348">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#SQL_Resolution_Scopes/0.0.1920.1050@0.0.1920.1050" timestamp="1580466278348" />
+    <state x="546" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580466612582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="546" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580466612582" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580396048007">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580396048007" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1580396048006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580396048006" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1580396048006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580396048006" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1580396048007">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580396048007" />
+    <state x="794" y="449" key="NewPhpFileDialog" timestamp="1580631673718">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="449" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580631673718" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1580481280259">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1580481280259" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1580466461500">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1920.1050@0.0.1920.1050" timestamp="1580466461500" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1580630882580">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1580630882580" />
+  </component>
+</project>
